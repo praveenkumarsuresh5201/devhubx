@@ -69,16 +69,16 @@
 You can download my resume here:  
 [![Download Resume](https://img.shields.io/badge/Resume-PDF-red?logo=adobeacrobatreader)](./Praveenkumar_Software_Developer_AI_Resume_2025.pdf)
 
-[Praveenkumar_Software_Developer_AI_Resume_2025.pdf](https://github.com/praveenkumarsuresh5201/devhubx.git)
+[Praveenkumar_Software_Developer_AI_Resume_2025.pdf](https://github.com/pr4vndevhubX/pr4vndevhubX.git)
 
 ---
 
 ## 📂 Featured Projects
 
 - **[Voice Disorder Detection Using Deep Learning](https://voicepathologydetection.netlify.app/)** – CNN, MFCC, React, 94% accuracy  
-- **[MNIST Digit Recognizer](https://github.com/praveenkumarsuresh5201/MNIST-Digit-Recognizer)** – CNN with TensorFlow (98% accuracy)  
-- **[Bus Ticket Booking System](https://github.com/praveenkumarsuresh5201/BusTicketBooking)** – Java Servlets, MySQL  
-- **[React Travel Partner Finder](https://github.com/praveenkumarsuresh5201/React-Project)** – ReactJS, REST API  
+- **[MNIST Digit Recognizer](https://github.com/pr4vndevhubX/MNIST-Digit-Recognizer)** – CNN with TensorFlow (98% accuracy)  
+- **[Bus Ticket Booking System](https://github.com/pr4vndevhubX/BusTicketBooking)** – Java Servlets, MySQL  
+- **[React Travel Partner Finder](https://github.com/pr4vndevhubX/React-Project)** – ReactJS, REST API  
 
 ---
 
@@ -114,7 +114,7 @@ You can download my resume here:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/praveenkumarsuresh5201/devhubx/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pr4vndevhubX/pr4vndevhubX/output/dist/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -125,16 +125,16 @@ You can download my resume here:
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=praveenkumarsuresh5201&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=praveenkumarsuresh5201&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=pr4vndevhubX&count_private=true&theme=default&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=pr4vndevhubX&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=praveenkumarsuresh5201&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=pr4vndevhubX&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=praveenkumarsuresh5201&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pr4vndevhubX&color=brightgreen" alt="Profile Views" />
 </p>
 
 <hr/>
@@ -172,5 +172,5 @@ You can download my resume here:
 ---
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/praveenkumarsuresh5201">DevHubX</a> | "Keep Building. Keep Learning. Keep Growing."</i>
+  <i>⭐️ From <a href="https://github.com/pr4vndevhubX">pr4vndevhubX</a> | "Keep Building. Keep Learning. Keep Growing."</i>
 </p>
