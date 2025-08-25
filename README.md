@@ -31,34 +31,36 @@
 ## 🛠️ Skills & Tools  
 
 ### **Programming & Development**
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=databricks&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,html,css,javascript,react,mysql" />
+</div>
 
-### **AI & ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+---
+
+### **AI & Machine Learning**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</div>
+
+---
 
 ### **Cybersecurity**
-![SIEM](https://img.shields.io/badge/SIEM-0052CC?logo=splunk&logoColor=white)
-![XDR](https://img.shields.io/badge/XDR-FF5722?logo=elastic&logoColor=white)
-![SOAR](https://img.shields.io/badge/SOAR-8A2BE2?logo=securityscorecard&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-0A66C2?logo=cyberdefense&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/SIEM-0052CC?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/XDR-FF5722?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOAR-8A2BE2?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-0A66C2?style=for-the-badge&logo=cyberdefense&logoColor=white" />
+</div>
+
+---
 
 ### **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-000000?logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=azure,docker,git" />
+</div>
 
 ---
 
@@ -110,6 +112,17 @@ You can download my resume here:
 
 ---
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/praveenkumarsuresh5201/praveenkumarsuresh5201/output/dist/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+---
+
 ## 📈 GitHub Stats & Profile Views
 
 <p align="center">
@@ -135,10 +148,18 @@ You can download my resume here:
 
 ## 📬 Contact Me
 
-- **Email:** [praveenkumar.ksuresh@gmail.com](mailto:praveenkumar.ksuresh@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/praveenkumarsuresh5201](https://linkedin.com/in/praveenkumarsuresh5201)  
-- **Portfolio:** [voicepathologydetection.netlify.app](https://voicepathologydetection.netlify.app)  
-
+<div align="center"> 
+  <a href="mailto:praveenkumar.ksuresh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/praveenkumarsuresh5201" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://voicepathologydetection.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Project-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+<br>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
