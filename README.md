@@ -111,8 +111,6 @@ You can download my resume here:
 - 📜 **Certified in Machine Learning (University of London – Coursera, 2023)**  
 
 ---
-<hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
