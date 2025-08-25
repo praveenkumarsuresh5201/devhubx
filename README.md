@@ -115,7 +115,7 @@ You can download my resume here:
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/praveenkumarsuresh5201/praveenkumarsuresh5201/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/praveenkumarsuresh5201/devhubx/output/dist/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
