@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main # or master, but main is default on GitHub now
+      - master # or master, but main is default on GitHub now
 
 jobs:
   build:
