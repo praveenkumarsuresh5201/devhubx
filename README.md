@@ -122,16 +122,22 @@ You can download my resume here:
 
 ---
 
-## 📈 GitHub Stats & Profile Views
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=praveenkumarsuresh5201&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=praveenkumarsuresh5201&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=praveenkumarsuresh5201&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenkumarsuresh5201&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenkumarsuresh5201&layout=compact&theme=default" height="165"/>
-</p>
+<br/><br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveenkumarsuresh5201&color=blue" alt="Profile Views" />
 </p>
+
+<hr/>
 
 ---
 
@@ -158,7 +164,7 @@ You can download my resume here:
     <img src="https://img.shields.io/badge/Project-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
-<br>
+<br/>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
