@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hi there, I'm <span style="font-family: 'Trebuchet MS', sans-serif; font-size: 40px;">DevHubX</span> 👋</b>
+  <b>Hi there, I'm <span style="font-family: 'Trebuchet MS', sans-serif; font-size: 40px;">pr4vndevhubX</span> 👋</b>
 </h1>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 - **AI-Powered Cybersecurity & SOC Automation Engineer** @ **Krya Solutions** – *Perungudi, Chennai*  
   - 🔐 Automating **Security Operations Center (SOC)** workflows using **AI**.  
-  - 🛡 Expertise in **SIEM, XDR, SOAR**, and currently building a **Managed Cybersecurity Platform (MCP)**.  
+  - 🛡 Expertise in **SIEM, XDR, SOAR**, and currently building a **Model Context Protocol (MCP)**.  
   - 🤖 Leveraging **Machine Learning** for **threat detection, log analysis, and incident response automation**.  
 
 ---
